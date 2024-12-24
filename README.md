@@ -1,3 +1,5 @@
+![LLM Evaluation Platform Banner](https://github.com/user-attachments/assets/80ea1608-e1b1-466f-9153-99153f4a65b8)
+
 # Brain Tumor Classification
 
 > This project focuses on developing a machine learning model capable of detecting and classifying brain tumors from MRI scans into categories such as Glioma, Meningioma, Pituitary Tumor, or No Tumor.
